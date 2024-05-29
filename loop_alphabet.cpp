@@ -2,7 +2,7 @@
 
 int main() {
     int n;
-    std::cout << "Enter the value of n: ";
+    std::cout << "Enter n: ";
     std::cin >> n;
 
     for (int i = 1; i <= n; ++i) {
